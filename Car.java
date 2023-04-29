@@ -4,3 +4,4 @@ diger developer taskini tamamladi.
 
 
 yeni kodlar ekledim
+farkli kodlar yazdim
